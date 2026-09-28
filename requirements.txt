@@ -1,5 +1,7 @@
 conllu
 pandas
-torch
 tqdm
 scikit-learn
+torch
+transformers
+gensim
